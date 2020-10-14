@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amaljoy258" alt="amaljoy258" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/amaljoy_258" target="blank"><img src="https://img.shields.io/twitter/follow/amaljoy_258?logo=twitter&style=for-the-badge" alt="amaljoy_258" /></a> </p>
+
 - 🔭 I’m currently working on [Caligator](https://github.com/amaljoy258/caligator)
 
 - 🌱 I’m currently learning **React & UI/UX Designing**
@@ -25,9 +27,6 @@
 <a href="https://twitter.com/amaljoy_258" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="amaljoy_258" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/amaljoy258" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="amaljoy258" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/amaljoy258" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="amaljoy258" height="30" width="40" /></a>
-<a href="https://kaggle.com/amal joy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="amal joy" height="30" width="40" /></a>
-<a href="https://fb.com/quit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="quit" height="30" width="40" /></a>
-<a href="https://instagram.com/not active anymore" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="not active anymore" height="30" width="40" /></a>
 <a href="https://dribbble.com/amaljoy258" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="amaljoy258" height="30" width="40" /></a>
 <a href="https://www.behance.net/amaljoy258" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="amaljoy258" height="30" width="40" /></a>
 <a href="https://medium.com/@amaljoy258" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@amaljoy258" height="30" width="40" /></a>
